@@ -1,7 +1,7 @@
 from runner import run
 import sys
 
-print("Welcome to SimplePyLang!")
+print("Welcome to SuperLang!")
 
 # Check if a file is passed
 if len(sys.argv) > 1:
@@ -13,7 +13,7 @@ else:
     print("Type 'exit' to quit.")
     while True:
         try:
-            text = input('SimplePyLang > ')
+            text = input('SuperLang > ')
             if text == "exit":
                 break
             run(text)
