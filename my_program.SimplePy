@@ -1,0 +1,18 @@
+let a equal 5
+let b equal 8
+let sum equal a plus b
+say sum
+
+if a greater_than b
+    say "a is greater"
+else
+    say "b is greater"
+
+repeat 3 times
+    say "Repeating Hello!"
+
+do greet name
+    say "Hello, " plus name
+
+let my_name equal "Aditya"
+greet my_name
