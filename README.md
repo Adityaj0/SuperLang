@@ -22,7 +22,7 @@ SuperLang is a **plain-English-inspired** programming language with a custom **l
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/superlang.git
+git clone https://github.com/Adityaj0/SuperLang.git
 cd superlang
 ```
 
